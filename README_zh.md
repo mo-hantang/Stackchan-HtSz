@@ -112,6 +112,8 @@ v1 的稳定版本为 1.9.2，可以通过 `git checkout v1` 来切换到 v1 版
 
 👉 [新手烧录固件教程](https://ccnphfhqs21z.feishu.cn/wiki/Zpz4wXBtdimBrLk25WdcXzxcnNS)
 
+👉 [M5Stack CoreS3 从源码编译与烧录指南](docs/flash-cores3-zh.md)
+
 ### 开发环境
 
 - Cursor 或 VSCode
